@@ -1,5 +1,4 @@
 # DeepLearning-ModelOptimization
-Final Project - CIFAR10 Image Classification
 This is the final project for the deep learning course in Python, where the goal is to achieve the highest accuracy possible on the CIFAR10 image classification dataset. The project builds on the knowledge and skills learned throughout the course: we tuned the optimization algorithm (SGD with momentum and Adam) and the learning rate, added batch normalization and added regularization.
 
 # Dataset
